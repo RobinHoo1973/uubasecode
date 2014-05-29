@@ -4,9 +4,9 @@
 # Function Name:   HELP_USAGE                           
 # Description:     Function to display the usage of the script          
 # Parameters:      None                             
-# Return:      Help messages                        
+# Return:          Help messages                        
 # Called By:       Script Main Loop->Script Parameters' Handler         
-# History:     2014-May-29 Initial Edition               RobinHoo  
+# History:         2014-May-29 Initial Edition               RobinHoo  
 ################################################################################
 
 function help_usage()
